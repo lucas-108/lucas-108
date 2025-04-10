@@ -1,6 +1,6 @@
-# Lucas Smit
+## Hello there 👋
 
-### SDET | Test Automation Specialist
+#### SDET | Test Automation Specialist at [Auditboard](https://www.auditboard.com/)
 
 👨🏽‍💻 I'm centered on software testing in agile environment focused on creating collaborative efforts between developers and engineering teams to implement systems and product-level changes to benefit end-users.
 
@@ -12,7 +12,7 @@
 More details about my professional experience and academic background can be found on my LinkedIn profile.
 
 <a href="https://www.linkedin.com/in/qalucas/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-40AEF0?style=flat-square&logoColor=white&logoSize=auto&color=%2340AEF0&cacheSeconds=3600">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-40AEF0?style=for-the-badge&logoColor=white&logoSize=auto&color=%2340AEF0&cacheSeconds=3600">
 </a>
 
 <!--
