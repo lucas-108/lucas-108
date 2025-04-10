@@ -1,4 +1,8 @@
-## Hi there 👋
+# Lucas Smit
+
+### SDET | Test Automation Specialist | Playwright, TypeScript, API Testing & Performance
+
+👨🏽‍💻 I'm centered on software testing in agile environment focused on creating collaborative efforts between developers and engineering teams to implement systems and product-level changes to benefit end-users.
 
 <!--
 **lucas-108/lucas-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
