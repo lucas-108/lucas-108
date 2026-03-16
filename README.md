@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-#### SDET | Test Automation Specialist at [Auditboard](https://www.auditboard.com/)
+#### AI-first SDET at [Auditboard](https://www.auditboard.com/)
 
-👋 I'm a Software Development Engineer in Test (SDET) with a non-traditional background working at the intersection of traditional software testing and AI reliability. 
+👋 I'm a Software Development Engineer in Test (SDET) working at the intersection of traditional software testing and AI reliability. 
 
 👨🏽‍💻 I architect test automation frameworks, build CI/CD pipelines, lead AI-augmented QA initiatives, and focus on AI/LLM testing and Red Teaming. My work bridges traditional quality engineering with the emerging challenge of making AI systems reliable and safe.
 
