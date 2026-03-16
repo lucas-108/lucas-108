@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-#### AI-first SDET at [Auditboard](https://www.auditboard.com/)
+#### AI-first SDET at [Optro](https://optro.ai/)
 
 👋 I'm a Software Development Engineer in Test (SDET) working at the intersection of traditional software testing and AI reliability. 
 
